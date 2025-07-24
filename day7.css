@@ -1,0 +1,33 @@
+.a{
+    color: hsla(62, 77%, 35%, 0.915);
+    font-size: 22px;
+}
+#b1{
+    color: red;
+    font-weight: bolder;
+    font-family: monospace;
+}
+
+/*div {
+    color: blue;
+}*/
+
+.b{
+    color: cadetblue;
+}
+
+.b:hover{
+    cursor: pointer;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
