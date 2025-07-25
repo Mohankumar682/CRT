@@ -1,0 +1,20 @@
+body{
+    border-width: 2px;
+    border-color: black;
+    border-style: ridge;
+    padding-left: 25px;
+    text-align: center;
+    background-color: blueviolet;
+    
+h2{
+    color: brown;
+}
+h3{
+    font-weight: bolder;
+}
+h4{
+    font-size:xx-large;
+}
+h5{
+    font-style: oblique;
+}
