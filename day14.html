@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            height:100px;
+            width: 100px;
+            background-color: seagreen;
+            animation-name:moveright;
+            animation-duration: 2s;
+            animation-timing-function: ease;
+            animation-iteration-count: infinite;
+        }
+        @keyframes moveright{
+            0%{
+                transform: translate(0,0);
+            }
+            50%{
+                transform: translate(200px,400px);
+            }
+            100%{
+                transform: translate(0px,100px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div>mohan</div>
+</body>
+</html>
